@@ -3,3 +3,6 @@
 */x64/ 
 *.exe 
 *.obj 
+.vs/ 
+*.ipch 
+*.VC.db 
