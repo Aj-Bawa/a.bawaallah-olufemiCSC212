@@ -1,2 +1,10 @@
-﻿  glad.c
+﻿  EBO.cpp
+  Main.cpp
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\arcti\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
   PyramidAssignment.vcxproj -> C:\Users\arcti\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\x64\Debug\PyramidAssignment.exe
