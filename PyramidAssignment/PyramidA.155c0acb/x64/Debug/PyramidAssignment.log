@@ -1,2 +1,26 @@
-﻿  glad.c
-  PyramidAssignment.vcxproj -> C:\Users\arcti\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\x64\Debug\PyramidAssignment.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (PyramidA.155c0acb\x64\Debug\) contains files shared from another project (PyramidAssignment - Copy.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EBO.cpp
+  Main.cpp
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\EBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'EBO.cpp')
+  
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\Main.cpp(3,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  shaderClass.cpp
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\shaderClass.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'shaderClass.cpp')
+  
+  stb.cpp
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\stb.cpp(2,9): error C1083: Cannot open include file: 'stb/stb_image.h': No such file or directory
+  Texture.cpp
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\Texture.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'Texture.cpp')
+  
+  VAO.cpp
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\VAO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'VAO.cpp')
+  
+  VBO.cpp
+D:\OneDrive\Documents\Git repositories\a.bawaallah-olufemiCSC212\PyramidAssignment\VBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'VBO.cpp')
+  
+  Generating Code...
